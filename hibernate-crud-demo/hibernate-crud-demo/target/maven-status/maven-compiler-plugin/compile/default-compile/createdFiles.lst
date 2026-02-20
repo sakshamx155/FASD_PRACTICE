@@ -1,0 +1,4 @@
+com\klu\util\HibernateUtil.class
+com\klu\model\Employee.class
+com\klu\model\Department.class
+com\klu\app\MainApp.class
